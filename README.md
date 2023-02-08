@@ -4,4 +4,4 @@ I'm following a Youtube tutorial and I'd like to do the project several times an
 
 // video link 
 https://www.youtube.com/watch?v=T-VQUKeSU1w
-https://www.youtube.com/watch?v=L0pPRauLP2E&t=1036s
+// https://www.youtube.com/watch?v=L0pPRauLP2E&t=1036s
